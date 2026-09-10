@@ -12,7 +12,7 @@ resources:
 - repo: self
 
 variables:
-  IMAGE_NAME: shams22/album-backend-api
+  IMAGE_NAME: shams228/album-backend-api
   CONTAINERAPPS_APP: album-backend-api
   CONTAINERAPPS_ENVIRONMENT: aca-environment
   RESOURCE_GROUP: rg-containerapps-azure-pipelines
