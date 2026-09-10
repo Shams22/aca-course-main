@@ -3,8 +3,6 @@ trigger:
     include:
     - main
   paths:
-    include:
-    - azure-pipelines.yaml
     exclude:
     - Readme.md
 
